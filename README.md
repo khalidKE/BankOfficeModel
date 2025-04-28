@@ -60,5 +60,6 @@ By analyzing interactions between customers and service points, the model identi
 ## Conclusion
 This simulation framework offers a robust foundation for analyzing and optimizing banking operations. By adjusting model parameters, bank offices can explore different strategies to improve service efficiency, balance workloads, and enhance the overall customer experience.
 
-presentation [Uploading Bank Office Model-1.pptx…]()
+presentation [Bank Office Model-1.pptx](https://github.com/user-attachments/files/19949482/Bank.Office.Model-1.pptx)
+
 
